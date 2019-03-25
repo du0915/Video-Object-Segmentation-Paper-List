@@ -1,8 +1,19 @@
 # Video-Object-Segmentation-Paper-List
-### 2018
-|No.   |Figure   |Title   |Authors  |Pub.  |Links|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|19|![GRFP](data/GRFP.png)|__Semantic Video Segmentation by Gated Recurrent Flow Propagation__|David Nilsson, Cristian Sminchisescu|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/D-Nilsson/GRFP)|
+### 2019
+|No.   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|
+|1|__Fast Online Object Tracking and Segmentation A Unifying Approach__|Qiang Wang(CASIA), Li Zhang(University of Oxford), Luca Bertinetto(Five AI), Weiming Hu(CASIA), Philip H.S. Torr(University of Oxford) |__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1812.05050.pdf)
+
+
+
+
+
+
+
+
+|No.  |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:---:|
+|19|__Semantic Video Segmentation by Gated Recurrent Flow Propagation__|David Nilsson, Cristian Sminchisescu|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/D-Nilsson/GRFP)|
 |18|![DVSN](data/DVSN.png)|__Dynamic Video Segmentation Network__|Yu-Syuan Xu, Tsu-Jui Fu, Hsuan-Kung Yang, Chun-Yi Lee|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/XUSean0118/DVSNet)|
 |17|![unVOSMSGSTP](data/unVOSMSGSTP.png)|__Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
 |16|![unVOSMBN](data/unVOSMBN.png)|__Unsupervised Video Object Segmentation with Motion-based Bilateral Networks__|Vik Goel, Jameson Weng, Pascal Poupart|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
