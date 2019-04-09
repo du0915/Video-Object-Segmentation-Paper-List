@@ -40,6 +40,6 @@
 ### 2016
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|2|![VSOF](data/VSOF.png)|__Video Segmentation via Object Flow__|Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black|__CVPR 2016__|[`github`](https://github.com/wasidennis/ObjectFlow)|
-|1|![BVS](data/BVS.png)|__Bilateral Space Video Segmentation__|Nicolas Marki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung|__CVPR 2016__|[`project page`](https://graphics.ethz.ch/~perazzif/bvs/index.html)|
+|2|VSOF|__Video Segmentation via Object Flow__|Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black|__CVPR 2016__|[`github`](https://github.com/wasidennis/ObjectFlow)|
+|1|BVS|__Bilateral Space Video Segmentation__|Nicolas Marki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung|__CVPR 2016__|[`project page`](https://graphics.ethz.ch/~perazzif/bvs/index.html)|
 
