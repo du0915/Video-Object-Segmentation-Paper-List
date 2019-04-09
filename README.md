@@ -2,7 +2,7 @@
 ___
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
-|-----|:-----:|:-----:|:-----:|:---:|:---:|   
+|-----|:-----:|:-----:|:-----:|:----:|:---:|   
 |__STM__|Video Object Segmentation using Space-Time Memory Networks|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|Yonsei University|__arXiv 2019.4__|[`paper`](https://arxiv.org/pdf/1904.00607.pdf)|
 |__GAM__|A Generative Appearance Model for End-to-end Video Object Segmentation|Joakim Johnander, Emil Brissman, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|Linkoping University|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1811.11611.pdf)|
 |__MLDVW__|Meta Learning Deep Visual Words for Fast Video Object Segmentation|Harkirat Singh Behl, Mohammad Najafi, Philip H.S. Torr|University of Oxford|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1812.01397.pdf)|
@@ -40,7 +40,7 @@ ___
 |__PLM__|Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|UMN, KAIST|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|
 |__VMNet__|Learning Video Object Segmentation with Visual Memory|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|Inria|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1704.05737)|
 |__OSVOS__|One-Shot Video Object Segmentation|Sergi Caelles, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Laura Leal-Taixé, Daniel Cremers, Luc Van Gool|ETH Zurich|__CVPR 2017__|[`project page`](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)|
-|__MaskTrack__|Learning Video Object Segmentation from Static Images|Anna Khoreva, Federico Perazzi, Rodrigo Benenson, Bernt Schiele, Alexander Sorkine-Hornung|Disney Research, ETH Zurich, MPI|__CVPR 2017__|[`project page`](https://graphics.ethz.ch/~perazzif/masktrack/index.html) [`code`(unofficial)](https://github.com/omkar13/MaskTrack)|
+|__MaskTrack__|Learning Video Object Segmentation from Static Images|Anna Khoreva, Federico Perazzi, Rodrigo Benenson, Bernt Schiele, Alexander Sorkine-Hornung|Disney Research, ETH Zurich, MPI|__CVPR 2017__|[`project page`](https://graphics.ethz.ch/~perazzif/masktrack/index.html) [`code`](https://github.com/omkar13/MaskTrack)|
 |__MPNet__|Learning Motion Patterns in Videos|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|Inria|__CVPR 2017__|[`project page`](http://thoth.inrialpes.fr/research/mpnet/)|
 |__FusionSeg__|FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos|Suyog Dutt Jain, Bo Xiong, Kristen Grauman|University of Texas at Austin|__CVPR 2017__|[`project page`](http://vision.cs.utexas.edu/projects/fusionseg/)|
 |__VPN__|Video Propagation Networks|Varun Jampani, Raghudeep Gadde, Peter V. Gehler|MPI|__CVPR 2017__|[`project page`](https://varunjampani.github.io/vpn/)|
