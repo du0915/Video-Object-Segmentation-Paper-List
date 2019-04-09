@@ -4,9 +4,11 @@
 |-----|:-----:|:-----:|:-----:|:---:|:---:|   
 |STM|__Video Object Segmentation using Space-Time Memory Networks__|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|Yonsei University|__arXiv 2019.4__|[`paper`](https://arxiv.org/pdf/1904.00607.pdf)|
 |GAM|__A Generative Appearance Model for End-to-end Video Object Segmentation__|Joakim Johnander, Emil Brissman, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|Linkoping University|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1811.11611.pdf)|
+|MLDVW|__Meta Learning Deep Visual Words for Fast Video Object Segmentation__|Harkirat Singh Behl, Mohammad Najafi, Philip H.S. Torr|University of Oxford|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1812.01397.pdf)|
 |RGMP|__Fast video object segmentation with Spatio-Temporal GANs__|S. Caelles, A. Pumarola, F. Moreno-Noguer, A. Sanfeliu, L. Van Gool|ETH Zurich|__arXiv 2019.3.28__|[`paper`](https://arxiv.org/pdf/1903.12161.pdf)|
 |STC|__Spatiotemporal CNN for Video Object Segmentation__|Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang|CAS|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.02363.pdf)|
 |SiamMask|__Fast Online Object Tracking and Segmentation: A Unifying Approach__|Qiang Wang, Li Zhang, Luca Bertinetto|CASIA, University of Oxford|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1812.05050.pdf) [`github`](https://github.com/foolwood/SiamMask)|
+|TIS|__Tukey-Inspired Video Object Segmentation__|Brent A. Griffin, Jason J. Corso|University of Michigan|__WACV 2019__|[`paper`](https://arxiv.org/pdf/1811.07958.pdf) [`github`](https://github.com/griffbr/TIS)|
 
 ### 2018
 |No.   |Method   |Title   |Authors  |Pub.  |Links|
