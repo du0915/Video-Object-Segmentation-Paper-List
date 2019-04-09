@@ -11,26 +11,23 @@
 |TIS|__Tukey-Inspired Video Object Segmentation__|Brent A. Griffin, Jason J. Corso|University of Michigan|__WACV 2019__|[`paper`](https://arxiv.org/pdf/1811.07958.pdf) [`github`](https://github.com/griffbr/TIS)|
 
 ### 2018
-|No.   |Method   |Title   |Authors  |Pub.  |Links|
+|Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|18|DyeNet|__video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation__|Xiaoxiao Li, Chen Change Loy|__ECCV 2018__|[`project page`](https://deeplearn.org/arxiv/28892/video-object-segmentation-with-joint-re-identification-and-attention-aware-mask-propagation)|
-|17|VideoMatch|__VideoMatch: Matching based Video Object Segmentation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01123v1)|
-|16|VOSLSE|__Video Object Segmentation by Learning Location-Sensitive Embeddings__|Hai Ci, Chunyu Wang, Yizhou Wang|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/html/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.html)|
-|15|unVOSMSGSTP|__Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
-|14|unVOSMBN|__Unsupervised Video Object Segmentation with Motion-based Bilateral Networks__|Vik Goel, Jameson Weng, Pascal Poupart|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
-|13|GRFP|__Semantic Video Segmentation by Gated Recurrent Flow Propagation__|David Nilsson, Cristian Sminchisescu|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/D-Nilsson/GRFP)|
-|12|DVSN|__Dynamic Video Segmentation Network__|Yu-Syuan Xu, Tsu-Jui Fu, Hsuan-Kung Yang, Chun-Yi Lee|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/XUSean0118/DVSNet)|
-|11|Low-Latency|__Low-Latency Video Semantic Segmentation__|Yule Li, Jianping Shi, Dahua Lin|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1804.00389)|
-|10|IETunVOS|__Instance Embedding Transfer to Unsupervised Video Object Segmentation__|Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1801.00908)|
-|9|Higher-Order|__CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF__|Linchao Bao, Baoyuan Wu, Wei Liu|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1803.09453)|
-|8|GCRF|__Deep Spatio-Temporal Random Fields for Efficient Video Segmentation__|Siddhartha Chandra, Camille Couprie, Iasonas Kokkinos|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1807.03148)|
-|7|RGMP|__Fast Video Object Segmentation by Reference-Guided Mask Propagation__|Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim|__CVPR 2018__|[`github`](https://github.com/seoungwugoh/RGMP)|
-|6|MoNet|__MoNet: Deep Motion Exploitation for Video Object Segmentation__|Huaxin Xiao, Jiashi Feng, Guosheng Lin, Yu Liu, Maojun Zhang|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)|
-|5|Motion-Guided-CRN|__Motion-Guided Cascaded Refinement Network for Video Object Segmentation__|Ping Hu, Gang Wang, Xiangfei Kong , Jason Kuen, Yap-Peng Tan|__CVPR 2018__|[`github`](https://github.com/feinanshan/Motion-Guided-CRN)|
-|4|FAVOS|__Fast and Accurate Online Video Object Segmentation via Tracking Parts__|Jingchun Cheng, Yi-Hsuan Tsai, Wei-Chih Hung, Shengjin Wang, Ming-Hsuan Yang|__CVPR 2018__|[`github`](https://github.com/JingchunCheng/FAVOS)|
-|3|OSMN|__Efficient Video Object Segmentation via Network Modulation__|Linjie Yang, Yanran Wang, Xuehan Xiong, Jianchao Yang, Aggelos K. Katsaggelos|__CVPR 2018__|[`github`](https://github.com/linjieyangsc/video_seg)|
-|2|PML|__Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning__|Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool|__CVPR 2018__|[`project page`](https://github.com/yuhuayc/fast-vos)|
-|1|Actor_Action|__Actor and Action Video Segmentation from a Sentence__|Kirill Gavrilyuk, Amir Ghodrati, Zhenyang Li, Cees G. M. Snoek|__CVPR 2018__|[`project page`](https://kgavrilyuk.github.io/publication/actor_action/)|
+|DyeNet|__video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation__|Xiaoxiao Li, Chen Change Loy|CUHK, NTU|__ECCV 2018__|[`project page`](https://deeplearn.org/arxiv/28892/video-object-segmentation-with-joint-re-identification-and-attention-aware-mask-propagation)|
+|VideoMatch|__VideoMatch: Matching based Video Object Segmentation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UIUC|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01123v1)|
+|VOSLSE|__Video Object Segmentation by Learning Location-Sensitive Embeddings__|Hai Ci, Chunyu Wang, Yizhou Wang|Peking University, MSRA|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/html/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.html)|
+|GRFP|__Semantic Video Segmentation by Gated Recurrent Flow Propagation__|David Nilsson, Cristian Sminchisescu|Lund University|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/D-Nilsson/GRFP)|
+|DVSN|__Dynamic Video Segmentation Network__|Yu-Syuan Xu, Tsu-Jui Fu, Hsuan-Kung Yang, Chun-Yi Lee|National Tsing Hua Uiversity|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) [`github`](https://github.com/XUSean0118/DVSNet)|
+|Low-Latency|__Low-Latency Video Semantic Segmentation__|Yule Li, Jianping Shi, Dahua Lin|CAS, SenseTime, CUHK|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1804.00389)|
+|CNN in MRF|__CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF__|Linchao Bao, Baoyuan Wu, Wei Liu|Tencent AI Lab|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1803.09453)|
+|GCRF|__Deep Spatio-Temporal Random Fields for Efficient Video Segmentation__|Siddhartha Chandra, Camille Couprie, Iasonas Kokkinos|INRIA GALEN, Facebook|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1807.03148)|
+|RGMP|__Fast Video Object Segmentation by Reference-Guided Mask Propagation__|Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim|Yonsei University|__CVPR 2018__|[`github`](https://github.com/seoungwugoh/RGMP)|
+|MoNet|__MoNet: Deep Motion Exploitation for Video Object Segmentation__|Huaxin Xiao, Jiashi Feng, Guosheng Lin, Yu Liu, Maojun Zhang|NUDT, NTU|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)|
+|Motion-Guided-CRN|__Motion-Guided Cascaded Refinement Network for Video Object Segmentation__|Ping Hu, Gang Wang, Xiangfei Kong , Jason Kuen, Yap-Peng Tan|NTU, Alibaba|__CVPR 2018__|[`github`](https://github.com/feinanshan/Motion-Guided-CRN)|
+|FAVOS|__Fast and Accurate Online Video Object Segmentation via Tracking Parts__|Jingchun Cheng, Yi-Hsuan Tsai, Wei-Chih Hung, Shengjin Wang, Ming-Hsuan Yang|Tsinghua University, UC Merced|__CVPR 2018__|[`github`](https://github.com/JingchunCheng/FAVOS)|
+|OSMN|__Efficient Video Object Segmentation via Network Modulation__|Linjie Yang, Yanran Wang, Xuehan Xiong, Jianchao Yang, Aggelos K. Katsaggelos|Snap, Google|__CVPR 2018__|[`github`](https://github.com/linjieyangsc/video_seg)|
+|PML|__Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning__|Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool|ETH Zurich|__CVPR 2018__|[`project page`](https://github.com/yuhuayc/fast-vos)|
+|Actor_Action|__Actor and Action Video Segmentation from a Sentence__|Kirill Gavrilyuk, Amir Ghodrati, Zhenyang Li, Cees G. M. Snoek|University of Amsterdam|__CVPR 2018__|[`project page`](https://kgavrilyuk.github.io/publication/actor_action/)|
 
 
 ### 2017
@@ -53,3 +50,6 @@
 |2|VSOF|__Video Segmentation via Object Flow__|Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black|__CVPR 2016__|[`github`](https://github.com/wasidennis/ObjectFlow)|
 |1|BVS|__Bilateral Space Video Segmentation__|Nicolas Marki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung|__CVPR 2016__|[`project page`](https://graphics.ethz.ch/~perazzif/bvs/index.html)|
 
+|15|unVOSMSGSTP|__Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
+|14|unVOSMBN|__Unsupervised Video Object Segmentation with Motion-based Bilateral Networks__|Vik Goel, Jameson Weng, Pascal Poupart|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
+|10|IETunVOS|__Instance Embedding Transfer to Unsupervised Video Object Segmentation__|Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1801.00908)|
