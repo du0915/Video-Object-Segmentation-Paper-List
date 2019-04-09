@@ -3,7 +3,7 @@ ___
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:-----:|:-----:|:-----:|:----:|:---:|   
-|__STM__|Video Object Segmentation using Space-Time Memory Networks|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|Yonsei University|__arXiv 2019.4__|[`paper`](https://arxiv.org/pdf/1904.00607.pdf)|
+|__*STM__|Video Object Segmentation using Space-Time Memory Networks|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|Yonsei University|__arXiv 2019.4__|[`paper`](https://arxiv.org/pdf/1904.00607.pdf)|
 |__GAM__|A Generative Appearance Model for End-to-end Video Object Segmentation|Joakim Johnander, Emil Brissman, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|Linkoping University|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1811.11611.pdf)|
 |__MLDVW__|Meta Learning Deep Visual Words for Fast Video Object Segmentation|Harkirat Singh Behl, Mohammad Najafi, Philip H.S. Torr|University of Oxford|__arXiv 2018.12__|[`paper`](https://arxiv.org/pdf/1812.01397.pdf)|
 |__RGMP__|Fast video object segmentation with Spatio-Temporal GANs|S. Caelles, A. Pumarola, F. Moreno-Noguer, A. Sanfeliu, L. Van Gool|ETH Zurich|__arXiv 2019.3.28__|[`paper`](https://arxiv.org/pdf/1903.12161.pdf)|
