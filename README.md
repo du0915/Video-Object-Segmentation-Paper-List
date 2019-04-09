@@ -31,25 +31,28 @@
 
 
 ### 2017
-|No.   |Method   |Title   |Authors  |Pub.  |Links|
+|Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|10|LucidDream|__Lucid Data Dreaming for Video Object Segmentation__|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|arXiv pre-print|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
-|9|MaskRNN|__MaskRNN: Instance Level Video ObjectSegmentation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
-|8|SegFlow|__SegFlow: Joint Learning for Video Object Segmentation and Optical Flow__|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
-|7|PLM|__Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks__|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|
-|6|VMNet|__Learning Video Object Segmentation with Visual Memory__|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1704.05737)|
-|5|OSVOS|__One-Shot Video Object Segmentation__|Sergi Caelles, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Laura Leal-Taixé, Daniel Cremers, Luc Van Gool|__CVPR 2017__|[`project page`](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)|
-|4|MaskTrack|__Learning Video Object Segmentation from Static Images__|Anna Khoreva, Federico Perazzi, Rodrigo Benenson, Bernt Schiele, Alexander Sorkine-Hornung|__CVPR 2017__|[`project page`](https://graphics.ethz.ch/~perazzif/masktrack/index.html) [`code`(unofficial)](https://github.com/omkar13/MaskTrack)|
-|3|MPNet|__Learning Motion Patterns in Videos__|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|__CVPR 2017__|[`project page`](http://thoth.inrialpes.fr/research/mpnet/)|
-|2|FusionSeg|__FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos__|Suyog Dutt Jain, Bo Xiong, Kristen Grauman|__CVPR 2017__|[`project page`](http://vision.cs.utexas.edu/projects/fusionseg/)|
-|1|VPN|__Video Propagation Networks__|Varun Jampani, Raghudeep Gadde, Peter V. Gehler|__CVPR 2017__|[`project page`](https://varunjampani.github.io/vpn/)|
+|__LucidDream__|Lucid Data Dreaming for Video Object Segmentation|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|MPI, Google|arXiv pre-print|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
+|__MaskRNN__|MaskRNN: Instance Level Video ObjectSegmentation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UIUC|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
+|__SegFlow__|SegFlow: Joint Learning for Video Object Segmentation and Optical Flow|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|Tsinghua University, UC Merced|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
+|__PLM__|Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|UMN, KAIST|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|
+|__VMNet__|Learning Video Object Segmentation with Visual Memory|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|Inria|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1704.05737)|
+|__OSVOS__|One-Shot Video Object Segmentation|Sergi Caelles, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Laura Leal-Taixé, Daniel Cremers, Luc Van Gool|ETH Zurich|__CVPR 2017__|[`project page`](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)|
+|__MaskTrack__|Learning Video Object Segmentation from Static Images|Anna Khoreva, Federico Perazzi, Rodrigo Benenson, Bernt Schiele, Alexander Sorkine-Hornung|Disney Research, ETH Zurich, MPI|__CVPR 2017__|[`project page`](https://graphics.ethz.ch/~perazzif/masktrack/index.html) [`code`(unofficial)](https://github.com/omkar13/MaskTrack)|
+|__MPNet__|Learning Motion Patterns in Videos|Pavel Tokmakov, Karteek Alahari, Cordelia Schmid|Inria|__CVPR 2017__|[`project page`](http://thoth.inrialpes.fr/research/mpnet/)|
+|__FusionSeg__|FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos|Suyog Dutt Jain, Bo Xiong, Kristen Grauman|University of Texas at Austin|__CVPR 2017__|[`project page`](http://vision.cs.utexas.edu/projects/fusionseg/)|
+|__VPN__|Video Propagation Networks|Varun Jampani, Raghudeep Gadde, Peter V. Gehler|MPI|__CVPR 2017__|[`project page`](https://varunjampani.github.io/vpn/)|
 
 ### 2016
-|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|2|VSOF|__Video Segmentation via Object Flow__|Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black|__CVPR 2016__|[`github`](https://github.com/wasidennis/ObjectFlow)|
-|1|BVS|__Bilateral Space Video Segmentation__|Nicolas Marki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung|__CVPR 2016__|[`project page`](https://graphics.ethz.ch/~perazzif/bvs/index.html)|
+|__VSOF__|Video Segmentation via Object Flow|Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black|UC Merced|__CVPR 2016__|[`github`](https://github.com/wasidennis/ObjectFlow)|
+|__BVS__|Bilateral Space Video Segmentation|Nicolas Marki, Federico Perazzi, Oliver Wang, Alexander Sorkine-Hornung|ETH Zurich, Disney Research|__CVPR 2016__|[`project page`](https://graphics.ethz.ch/~perazzif/bvs/index.html)|
 
-|15|unVOSMSGSTP|__Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
-|14|unVOSMBN|__Unsupervised Video Object Segmentation with Motion-based Bilateral Networks__|Vik Goel, Jameson Weng, Pascal Poupart|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
-|10|IETunVOS|__Instance Embedding Transfer to Unsupervised Video Object Segmentation__|Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1801.00908)|
+## Unsupervised Video Object Segmentation
+|Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|__unVOSMSGSTP__|Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UC Merced|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
+|__unVOSMBN__|Unsupervised Video Object Segmentation with Motion-based Bilateral Networks|Vik Goel, Jameson Weng, Pascal Poupart|UCLA, Google|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
+|__IETunVOS__|Instance Embedding Transfer to Unsupervised Video Object Segmentation|Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo|USC, Google|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1801.00908)|
