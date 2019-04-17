@@ -22,6 +22,7 @@ ___
 ### 2018
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|__MVOS-OL__|Online Meta Adaptation for Fast Video Object Segmentation|Huaxin Xiao, Bingyi Kang, Yu Liu, Maojun Zhang, Jiashi Feng|NUDT, NUS|__TPAMI 2018__|[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611188) [`github`](https://github.com/huaxinxiao/MVOS-OL)|
 |__DyeNet__|video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation|Xiaoxiao Li, Chen Change Loy|CUHK, NTU|__ECCV 2018__|[`project page`](https://deeplearn.org/arxiv/28892/video-object-segmentation-with-joint-re-identification-and-attention-aware-mask-propagation)|
 |__VideoMatch__|VideoMatch: Matching based Video Object Segmentation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UIUC|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01123v1)|
 |__VOSLSE__|Video Object Segmentation by Learning Location-Sensitive Embeddings|Hai Ci, Chunyu Wang, Yizhou Wang|Peking University, MSRA|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/html/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.html)|
