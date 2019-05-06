@@ -65,7 +65,8 @@ ___
 ___
 ## paper List
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|   
+|__AGS__|Learning Unsupervised Video Object Segmentation through Visual Attention|Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Hoi, Haibin Ling|BIT, IIAI, SMU, Temple University|__CVPR 2019__|[`paper`](http://www.dabi.temple.edu/~hbling/publication/UVOS-cvpr19.pdf)   [`github`](https://github.com/wenguanwang/AGS)|
 |__unVOSMSGSTP__|Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UC Merced|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
 |__unVOSMBN__|Unsupervised Video Object Segmentation with Motion-based Bilateral Networks|Vik Goel, Jameson Weng, Pascal Poupart|UCLA, Google|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|
 |__IETunVOS__|Instance Embedding Transfer to Unsupervised Video Object Segmentation|Siyang Li, Bryan Seybold, Alexey Vorobyov, Alireza Fathi, Qin Huang, C.-C. Jay Kuo|USC, Google|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1801.00908)|
