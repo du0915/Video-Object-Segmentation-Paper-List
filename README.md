@@ -5,7 +5,8 @@ ___
 ## Paper List
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
-|-----|:-----:|:-----:|:-----:|:----:|:---:|   
+|-----|:-----:|:-----:|:-----:|:----:|:---:| 
+|__DOS__|Discriminative Online Learning for Fast Video Object Segmentation|Andreas Robinson, Felix Jaremo Lawin, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|Linkoping University, ETH Zurich, Switzerland|__arXiv 4.18__|[`paper`](https://arxiv.org/pdf/1904.08630.pdf)|
 |__BoLTVOS__|BoLTVOS: Box-Level Tracking for Video Object Segmentation|Paul Voigtlaender, Jonathon Luiten, Bastian Leibe|RWTH Aachen|__arXiv 2019.4.9__|[`paper`](https://arxiv.org/pdf/1904.04552v1.pdf)|
 |__Patchwork__|Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams|Yuning Chai|Google Inc|__arXiv 2019.4.3__|[`paper`](https://arxiv.org/pdf/1904.01784v1.pdf)|
 |__*STM__|Video Object Segmentation using Space-Time Memory Networks|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|Yonsei University|__arXiv 2019.4__|[`paper`](https://arxiv.org/pdf/1904.00607.pdf)| 
