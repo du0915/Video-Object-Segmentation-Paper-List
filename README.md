@@ -46,7 +46,7 @@ ___
 ### 2017
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|__LucidDream__|Lucid Data Dreaming for Video Object Segmentation|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|MPI, Google|arXiv pre-print|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
+|__LucidDream__|Lucid Data Dreaming for Video Object Segmentation|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|MPI, Google||[`paper`](https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01164-6.pdf)   [`github`](https://github.com/ankhoreva/LucidDataDreaming)|
 |__FGFA__|Flow-guided feature aggregation for video object detection|Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei|USTC, MSRA|__ICCV 2017__|[`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-guided_Feature_Aggregation_ICCV_2017_paper.pdf)    [`github`](https://github.com/msracver/Flow-Guided-Feature-Aggregation)|    
 |__MaskRNN__|MaskRNN: Instance Level Video ObjectSegmentation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UIUC|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
 |__SegFlow__|SegFlow: Joint Learning for Video Object Segmentation and Optical Flow|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|Tsinghua University, UC Merced|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
