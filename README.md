@@ -6,6 +6,7 @@ ___
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:-----:|:-----:|:-----:|:----:|:---:| 
+|__PTSNet__|Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation|Qiang Zhou, Zilong Huang, Lichao Huang, Yongchao Gong, Han Shen, Chang Huang, Wenyu Liu, Xinggang Wang|HUST, Horizon Robotics|__arXiv 7.4|[`paper`](https://arxiv.org/pdf/1907.01203.pdf)      [`pytorch`](https://github.com/sydney0zq/PTSNet)|
 |__DOS__|Discriminative Online Learning for Fast Video Object Segmentation|Andreas Robinson, Felix Jaremo Lawin, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|Linkoping University, ETH Zurich, Switzerland|__arXiv 4.18__|[`paper`](https://arxiv.org/pdf/1904.08630.pdf)|
 |__BoLTVOS***__|BoLTVOS: Box-Level Tracking for Video Object Segmentation|Paul Voigtlaender, Jonathon Luiten, Bastian Leibe|RWTH Aachen|__arXiv 2019.4.9__|[`paper`](https://arxiv.org/pdf/1904.04552v1.pdf)|
 |__Patchwork__|Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams|Yuning Chai|Google Inc|__arXiv 2019.4.3__|[`paper`](https://arxiv.org/pdf/1904.01784v1.pdf)|
