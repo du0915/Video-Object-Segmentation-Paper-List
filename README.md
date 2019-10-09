@@ -6,10 +6,9 @@ ___
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:-----:|:-----:|:-----:|:----:|:---:|
-
 |__DMM-Net__|Differentiable Mask-Matching Network for Video Object Segmentation|Xiaohui Zeng,Renjie Liao,Li Gu,Yuwen Xiong,Sanja Fidler,Raquel Urtasun|University of Toronto,NVIDIA|__ICCV 2019__|[`paper`](https://arxiv.org/pdf/1909.12471v1.pdf)     [`pytorch`](https://github.com/ZENGXH/DMM_Net)|
 |__RANet__|RANet: Ranking Attention Network for Fast Video Object Segmentation|Ziqin Wang, Jun Xu, Li Liu, Fan Zhu,Ling Shao|The University of Sydney, IIAI, Xi’an Jiaotong University, Nankai University|__ICCV2019__|[`paper`](https://arxiv.org/pdf/1908.06647v3.pdf)       [`github`](https://github.com/Storife/RANet)|
-|__CapsuleVOS__|CapsuleVOS:Semi-Supervised Video Object Segmentation Using Capsule Routing|Kevin Duarte,Yogesh S Rawat,Mubarak Shah|University of Central Florida|__ICCV 2019__|[`paper`](https://www.crcv.ucf.edu/wpcontent/uploads/2019/08/Publications_CapsuleVOS.pdf)    [`TensorFlow`](https://github.com/KevinDuarte/CapsuleVOS)|
+|__CapsuleVOS__|CapsuleVOS:Semi-Supervised Video Object Segmentation Using Capsule Routing|Kevin Duarte,Yogesh S Rawat,Mubarak Shah|University of Central Florida|__ICCV 2019__|[`paper`](https://www.crcv.ucf.edu/wpcontent/uploads/2019/08/Publications_CapsuleVOS.pdf)   [`TensorFlow`](https://github.com/KevinDuarte/CapsuleVOS)|
 |__OSVOS-VL__|In defense of OSVOS|Yu Liu, Yutong Dai, Anh-Dzung Doan, Lingqiao Liu, Ian Reid|The University of Adelaide|__arXiv 8.20__|[`paper`](https://arxiv.org/pdf/1908.06692v2.pdf)   
 |__MTN__|Fast Video Object Segmentation via Mask Transfer Network|Tao Zhuo, Zhiyong Cheng, Mohan Kankanhalli|NUS, Shandong AI Institute|__arXiv 8.28__|[`paper`](https://arxiv.org/pdf/1908.10717v1.pdf)|             
 |__PTSNet__|Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation|Qiang Zhou, Zilong Huang, Lichao Huang, Yongchao Gong, Han Shen, Chang Huang, Wenyu Liu, Xinggang Wang|HUST, Horizon Robotics|__arXiv 7.4__|[`paper`](https://arxiv.org/pdf/1907.01203.pdf)      [`pytorch`](https://github.com/sydney0zq/PTSNet)|
