@@ -6,6 +6,7 @@ ___
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
+|__AGSS-VOS__|AGSS-VOS: Attention Guided Single-Shot Video Object Segmentation|Huaijia Lin,Xiaojuan Qi,Jiaya Jia|CUHK,University of Oxford,YoutTu Lab|__ICCV 2019__|[`paper`](http://jiaya.me/papers/agss_iccv19.pdf)|     
 |__DMM-Net__|Differentiable Mask-Matching Network for Video Object Segmentation|Xiaohui Zeng,Renjie Liao,Li Gu,Yuwen Xiong,Sanja Fidler,Raquel Urtasun|University of Toronto,NVIDIA|__ICCV 2019__|[`paper`](https://arxiv.org/pdf/1909.12471v1.pdf)     [`pytorch`](https://github.com/ZENGXH/DMM_Net)|
 |__RANet__|RANet: Ranking Attention Network for Fast Video Object Segmentation|Ziqin Wang, Jun Xu, Li Liu, Fan Zhu,Ling Shao|The University of Sydney, IIAI, Xi’an Jiaotong University, Nankai University|__ICCV2019__|[`paper`](https://arxiv.org/pdf/1908.06647v3.pdf)       [`github`](https://github.com/Storife/RANet)|
 |__CapsuleVOS__|CapsuleVOS:Semi-Supervised Video Object Segmentation Using Capsule Routing|Kevin Duarte,Yogesh S Rawat,Mubarak Shah|University of Central Florida|__ICCV 2019__|[`paper`](https://www.crcv.ucf.edu/wpcontent/uploads/2019/08/Publications_CapsuleVOS.pdf)   [`TensorFlow`](https://github.com/KevinDuarte/CapsuleVOS)|
